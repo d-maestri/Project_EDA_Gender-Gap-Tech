@@ -1,7 +1,7 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
+*.pyo   
 .mypy_cache/
 
 # Jupyter
@@ -16,5 +16,6 @@ ENV/
 
 # System files
 .DS_Store
+**/.DS_Store
 Thumbs.db
 
