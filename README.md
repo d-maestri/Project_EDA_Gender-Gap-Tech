@@ -24,7 +24,7 @@ The dataset is from the 2022 Kaggle Machine Learning & Data Science survey, with
 
 ![Presentation](reports/gender-distribution.png)
 ![Presentation](reports/chi-square.png)
-![Presentation](reports/gender-gap.png)
-![Presentation](reports/job-genderpng)
-![Presentation](reports/salary-distribution.png)
-![Presentation](https://github.com/d-maestri/Project_EDA_Gender-Gap-Tech/blob/main/GGA-presentation.pdf)
+![Presentation](reports/gender_gap.png)
+![Presentation](reports/job_gender.png)
+![Presentation](reports/salary_distribution.png)
+![Full Presentation](https://github.com/d-maestri/Project_EDA_Gender-Gap-Tech/blob/main/GGA-presentation.pdf)
