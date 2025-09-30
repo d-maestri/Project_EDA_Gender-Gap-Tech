@@ -1,4 +1,4 @@
-# Gender Gap Analysis in Data Science and Machine Learning
+# Gender Gap Analysis in Data Science
 
 ## Project Overview
 This project analyzes the gender gap among data science and machine learning professionals using the 2022 Kaggle survey data with nearly 24,000 responses. It includes data cleaning, SQL-driven exploration, statistical tests, and visualization with Python and Tableau to uncover disparities in salary, education, and leadership roles.
