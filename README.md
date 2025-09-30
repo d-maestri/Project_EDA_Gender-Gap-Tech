@@ -22,8 +22,9 @@ The dataset is from the 2022 Kaggle Machine Learning & Data Science survey, with
 - Presentation slides summarizing key findings
 - Visualizations highlighting gender disparities in salary, education, and roles
 
-![Presentation](reports/presentation_screenshot.png)
+![Presentation](reports/gender-distribution.png)
+![Presentation](reports/chi-square.png)
+![Presentation](reports/gender-gap.png)
+![Presentation](reports/job-genderpng)
+![Presentation](reports/salary-distribution.png)
 ![Presentation](https://github.com/d-maestri/Project_EDA_Gender-Gap-Tech/blob/main/GGA-presentation.pdf)
-
-## Bonus
-Included data augmentations via web scraping and Tableau dashboards highlighting insights.
